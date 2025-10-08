@@ -1,6 +1,7 @@
+@@ -1,56 +1,12 @@
 ---
 permalink: /
-title: "Guipeng Xv' s homepage. "
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
@@ -73,5 +74,3 @@ ACM The Web Conference (WWW) 2024, 2025
 2019.12 China National Scholarship for Undergraduate Students
 
 2018.12 China National Scholarship for Undergraduate Students
-
-
