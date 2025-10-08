@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Guipeng Xv' s homepage. "
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 ## About Me
 I' m Guipeng Xv(徐桂鹏), a third year PhD student from School of Infomatics, Xiamen University. My research interest includes Recommender System (e.g., multi-modal recommendation, graph recommendation, and bias in recommendation), Graph Neural Networks and Spatial Multi-omics. 
 I have published over 10 top-tier papers, many of which have been featured in top-tier data mining and AI conferences (CCF-A) like KDD, SIGIR, and ACM MM. 
