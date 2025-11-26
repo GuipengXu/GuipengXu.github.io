@@ -21,7 +21,7 @@ My full paper list can also be found at [DBLP](https://dblp.uni-trier.de/pid/297
 
 ### In the year of 2025
 
-**Guipeng Xv**, Xinyu Li, Yi Liu, Chen Lin, Xiaoli Wang. Unveiling the Impact of Multi-modal Content in Multi-modal Recommender Systems. to appear in ACM MM 2025. [CCF-A]
+**Guipeng Xv**, Xinyu Li, Yi Liu, Chen Lin, Xiaoli Wang. Unveiling the Impact of Multi-modal Content in Multi-modal Recommender Systems. ACM MM 2025:6093-6102. [CCF-A]
 
 ### In the year of 2024
 
@@ -51,11 +51,11 @@ Hui Li, Lianyun Li, **Guipeng Xv**, Chen Lin, Ke Li, Bingchuan Jiang. SPEX: A Ge
 
 ACM The Web Conference (WWW) - short paper track 2025 
 
-ACM The Web Conference (WWW) - research track 2026 
+ACM The Web Conference (WWW) - research paper 2026 [User Modeling, Personalization and Recommendation Track]
 
 ### Reviewer (Conference)
 
-ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2024, 2025, 2026
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2024, 2025, 2026 [KDD'25 Outstanding Reviewer (Top 10%)]
 
 ACM The Web Conference (WWW) 2024, 2025 
 
