@@ -27,10 +27,10 @@ author:
   name             : "Guipeng Xv (徐桂鹏)"
   # pronouns         : # example: "she/her"  
   # bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Xiamen, China"
   # employer         : "Red Brick University"
   # uri              : # URL
-  email            : "xuguipeng@stu.xmu.edu.cn" 
+  email            : "xuguipeng[AT]stu.xmu.edu.cn" 
 
   # Academic websites
   # academia         : # URL
@@ -38,7 +38,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=mIfMCX0AAAAJ&hl=zh-TW&oi=ao"
   # inspire-hep      : # URL
   # impactstory      : # URL
-  # orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-5320-5489"
   dblp: "https://dblp.uni-trier.de/pid/297/0218.html"
   # semantic         : # URL
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
