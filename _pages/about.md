@@ -21,9 +21,11 @@ My full paper list can also be found at [DBLP](https://dblp.uni-trier.de/pid/297
 
 ### In the year 2026
 
-[C9] Modeling Cascaded Delay Feedback for Online Net Conversion Rate Prediction: Benchmark, Insights and Solutions. To appear in WWW 2026. [CCF-A]
+[J2] Guipeng Xv, Yi Liu, Xinyu Li, Chen Lin. Lightweight Denoising and Aligning for Multi-modal Recommender System. to appear in TOIS. [CCF-A]
 
-[C8] Delayed Feedback Modeling for Post-Click Gross Merchandise Volume Prediction: Benchmark, Insights and Approaches. To appear in WWW 2026. [CCF-A]
+[C9] Xinyu Li, Sishuo Chen, **Guipeng Xv**, Li Zhang, Mingxuan Luo, Zhangming Chan, Xiang-Rong Sheng, Han Zhu, Jian Xu, Chen Lin. Modeling Cascaded Delay Feedback for Online Net Conversion Rate Prediction: Benchmark, Insights and Solutions. To appear in WWW 2026. [CCF-A]
+
+[C8] Mingxuan Luo+, **Guipeng Xv+**, Sishuo Chen, Xinyu Li, Li Zhang, Zhangming Chan, Xiang-Rong Sheng, Han Zhu, Jian Xu, Bo Zheng, Chen Lin.Delayed Feedback Modeling for Post-Click Gross Merchandise Volume Prediction: Benchmark, Insights and Approaches. To appear in WWW 2026. [CCF-A]
 
 ### In the year 2025
 
