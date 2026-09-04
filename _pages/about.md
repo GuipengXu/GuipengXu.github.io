@@ -8,12 +8,11 @@ redirect_from:
 ---
 
 ## About Me
-I'm Guipeng Xv(徐桂鹏), a third-year PhD student from the School of Infomatics, Xiamen University, under the supervision of Prof. [Chen Lin(林琛)](https://xmudm.github.io). 
-My research interests include Recommender Systems (e.g., multi-modal recommendation, graph recommendation, and bias in recommendation), Delayed-feedback Modeling, Graph Neural Networks, and Spatial Multi-omics. 
-I completed a research internship at Alimama, where I was awarded the title of Outstanding Research Intern, and later selected for Tencent’s Rhino-Bird Elite Program, receiving its Excellence Award.
-I have published over 10 top-tier papers, many of which have been featured at top-tier data mining and AI conferences (CCF-A) such as KDD, SIGIR, WWW, AAAI, and ACM MM. 
-My research direction is robust deep learning, including label-noise learning and unbiased learning.
-If you are seeking any form of academic cooperation, please feel free to email me at xuguipeng[AT]stu.xmu.edu.cn. 
+Hi, I'm Guipeng Xv (徐桂鹏), a final-year Ph.D. candidate in the School of Informatics at Xiamen University, advised by Prof. [Chen Lin(林琛)](https://xmudm.github.io). 
+My research focuses on recommender systems and robust deep learning — including multi-modal and graph-based recommendation, bias mitigation in recommendation, and delayed-feedback modeling — with extensions into spatial multi-omics.
+I completed a research internship at Alimama (Outstanding Research Intern) and was selected for Tencent's Rhino-Bird Elite Program (Excellence Award). 
+I have published over 10 papers at top-tier venues (CCF-A), including KDD, SIGIR, WWW, and ACM MM. 
+If you're interested in any form of collaboration, feel free to email me at xuguipeng[AT]stu.xmu.edu.cn.
 
 ## Selected Research Papers
 
